@@ -1,0 +1,2 @@
+Blending an object into a background
+The result example is 2_Blended.jpg where Patrick Star is 'photoshopped' into the snowy background or 1_Blended.jpg where Minion is next to Benjamin Franklin in Penn
